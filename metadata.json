@@ -1,0 +1,6 @@
+{
+  "name": "MockupStudio - Logo & Product Merch Mockups",
+  "description": "Upload your logo or generate one with AI, customize realistic product mockups for mugs, t-shirts, hoodies, and tote bags, and generate high-quality 4K commercial renders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
